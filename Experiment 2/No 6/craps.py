@@ -1,10 +1,3 @@
-"""
-Deveraturda, Gabriel Q.
-Group 1
-File: craps.py
-This module studies and plays the game of craps.
-"""
-
 from die import Die
 
 class Player(object):
